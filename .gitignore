@@ -31,3 +31,5 @@ target/
 
 # Maven
 .mvn/
+
+dsa-patterns.html
